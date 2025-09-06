@@ -1,5 +1,5 @@
 <h2> 👋 Hi, I'm Sachin Kaushik! aka @code-with-sachin <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/code-with-sachin/code-with-sachin/master/hand-drawn-boy-sitting-and-using-laptop.jpg" width="230">
+<img align='right' src="https://raw.githubusercontent.com/code-with-sachin/code-with-sachin/master/hand-drawn-boy-sitting-and-using-laptop.jpg" width="450">
 <p><em>Software Enginner at US based Product MNC!<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
