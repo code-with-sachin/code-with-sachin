@@ -12,11 +12,11 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- I'm a software dev currently working on fintech domain. I'm levegaring varous Tech stacks in my projects such as : Spring boot, Java, Python, Linux scripting, RedHat Openshift, AWS, JFROG, Jenkins, Docker, K8s, and other latest Technologies.
+- I'm a software dev currently working on fintech domain. I'm levegaring varous Tech stacks in my projects such as : Spring boot, Java, Python, Kafka, MQ, Microservices, Linux scripting, RedHat Openshift, AWS, JFROG, Jenkins, Docker, K8s, and other latest Technologies.
 - 👀 I’m interested in AI, and solving business problem statement which makes work simplified.
 - 🌱 I’m currently learning and implementing Machine learning, Deep learning and AI, Java, Spring Boot, Microservices and Android Development.
 - 💞️ I’m looking to collaborate on the same.
-- 📫 I'm am well versed with - Java, Python, Spring boot, Rest API, Flask, DJango, Selenium, Javascript, MongoDB, SQL, Jenkins, Docker, Kubernates.
+- 📫 I'm am well versed with - Java, Python, Data Structures, Spring boot, Rest API, Flask, DJango, Selenium, Javascript, MongoDB, SQL, Jenkins, Docker, Kubernates.
 
 - ![visitors](https://vbr.nathanchung.dev/badge?page_id=code-with-sachin.code-with-sachin&color=00cf00)
 
