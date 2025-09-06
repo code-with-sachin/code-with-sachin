@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/code-with-sachin/code-with-sachin/master/Background-sk.jpg" alt="👋 Hi there! I'm (code-with-(sachin|Sachin Kaushik))" title="👋 Hi there! I'm (code-with-(sachin|Sachin Kaushik))"/>]
+<img src="https://raw.githubusercontent.com/code-with-sachin/code-with-sachin/master/Background-sk.jpg" alt="👋 Hi there! I'm (code-with-(sachin|Sachin Kaushik))" title="👋 Hi there! I'm (code-with-(sachin|Sachin Kaushik))"/>
 
 - 👋 Hi, I’m @code-with-sachin
 - 👀 I’m interested in AI, and solving business problem statement which makes work simplified.
