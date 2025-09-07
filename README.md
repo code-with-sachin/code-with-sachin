@@ -1,7 +1,7 @@
 <h1 align="left"> <em> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Sachin Kaushik! </em> </h1>
+         width="45" /> I'm Sachin Kaushik! </em> - @code-with-sachin <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="65"> </h1>
 <!--<h2> 👋 Hi, I'm Sachin Kaushik! aka @code-with-sachin <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> -->
 <img align='right' src="https://raw.githubusercontent.com/code-with-sachin/code-with-sachin/master/hand-drawn-boy-sitting-and-using-laptop.jpg" width="351">
 <p><em>Software Enginner at US based Product MNC!  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
